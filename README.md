@@ -2,7 +2,7 @@
 
 This portfolio is a small project using HTML/CSS & Bootstrap.
 
-[Live Heroku Deployment](https://portfolio.creativeminds5.repl.co)
+[Live Deployment](https://portfolio.creativeminds5.repl.co)
 
 
 ## Technologies Used
